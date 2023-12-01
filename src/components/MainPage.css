@@ -1,0 +1,27 @@
+.main{
+    display: inline-grid;
+    grid-template-columns: repeat(2,1fr);
+    width: 100%;
+
+}
+
+.text_btn{
+    width: 70% !important;
+
+}
+
+.btn_groups{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.start{
+    background:#6950f3;
+    border-radius: 60px;
+    color: white;
+    height: 40px ;
+    cursor: pointer;
+
+
+
+}
